@@ -65,7 +65,7 @@ export default Notifications = withStyles(_Notifications, theme => ({
 
   root: {
     backgroundColor: theme['color-basic-100'],
-    marginTop: 20,
+    // marginTop: 20,
   },
   container: {
     padding: 16,
